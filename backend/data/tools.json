@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Cordless Drill",
+    "category": "Power Tools",
+    "condition": "Fair",
+    "status": "Checked Out",
+    "borrower": "john amoderio",
+    "checkoutDate": "",
+    "dueDate": "2026-09-09",
+    "notes": "18V, comes with two batteries"
+  },
+  {
+    "id": "2",
+    "name": "Wheelbarrow",
+    "category": "Garden",
+    "condition": "Fair",
+    "status": "Checked Out",
+    "borrower": "Maria Chen",
+    "checkoutDate": "2026-08-01",
+    "dueDate": "2026-08-15",
+    "notes": ""
+  },
+  {
+    "id": "3",
+    "name": "Claw Hammer",
+    "category": "Hand Tools",
+    "condition": "New",
+    "status": "Checked Out",
+    "borrower": "henry leo",
+    "checkoutDate": "",
+    "dueDate": "2026-09-24",
+    "notes": ""
+  },
+  {
+    "id": "1789455741645",
+    "name": "chopper",
+    "category": "meat cutting",
+    "condition": "New",
+    "status": "Available",
+    "borrower": "Ankan Pal",
+    "checkoutDate": "",
+    "dueDate": "2026-09-29",
+    "notes": ""
+  }
+]
