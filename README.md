@@ -178,23 +178,30 @@ Covers:
 ## Screenshots
 
 ### Dashboard
+<img width="1902" height="797" alt="image" src="https://github.com/user-attachments/assets/bfec3240-ac5b-4031-b3bf-8cce8750c3f4" />
 
 ### Add Tool
+<img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/57a1b60c-aa23-4d6f-b45c-913bdffe859e" />
 
 ### Edit Tool
-
+<img width="1907" height="921" alt="image" src="https://github.com/user-attachments/assets/e37900bf-a87c-42dc-9f3a-89a3ae318750" />
 
 ### Delete Confirmation
+<img width="1905" height="860" alt="image" src="https://github.com/user-attachments/assets/e97d139f-47f9-411d-8626-1cbbec279283" />
 
 ### Search by name/ category and status filter
 
 ### Error handling
+<img width="1901" height="928" alt="image" src="https://github.com/user-attachments/assets/773d95c9-47dd-4d5a-8606-8777e9c35e38" />
 
-### Bad connectivity
+### Error handling when Editting
+<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/f9f91ac0-d7bc-4aa6-bd9b-a17ee99ebcc4" />
+
+### Empty state
+<img width="1910" height="752" alt="image" src="https://github.com/user-attachments/assets/54b4d9f2-7fc2-48fa-94e1-0d4c4b576281" />
 
 ### Accessibility score
-
-
+<img width="1895" height="928" alt="image" src="https://github.com/user-attachments/assets/48b34330-5808-464d-ac5a-fd016a03047b" />
 
 ---
 ## Author
