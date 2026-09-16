@@ -5,7 +5,7 @@ A lightweight internal web app that replaces the Tool Lending Library's manual p
 ---
 ## Deployment
 
-### Live Link: <YOUR_VERCEL_URL>
+### Live Link: https://lending-tool.netlify.app/
 ---
 
 ## Features
