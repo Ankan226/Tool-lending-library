@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:4000/api';
+const API_BASE_URL = 'https://tool-lending-library-yzb9.onrender.com/api';
 const API_KEY = 'my_secret_api_key_713424';
 
 const tableBody = document.getElementById('tools-table-body');
